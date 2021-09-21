@@ -16,25 +16,12 @@ The first represents cashbox inside the vending mashine with the same name 'cash
 
 **`cashbox.csv`**
 ----- | -----
-100   | 2
-50    | 50
-20    | 50
-10    | 50
-5     | 50
-1     | 100
-
-
---- | --- 
-100 | 2
---- | --- 
-50 | 50 | 
---- | --- 
-20 | 50 | 
---- | --- 
-10 | 50 | 
---- | --- 
-5 | 50 | 
-1 | 100 | 
+100   | 2  |
+50    | 50 |
+20    | 50 |
+10    | 50 |
+5     | 50 |
+1     | 100|
 
 The second one represents products inside the vending mashine, 'products.csv' has 4 columns: product id, product name, price and stock amount.
 
