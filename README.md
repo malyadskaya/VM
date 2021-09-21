@@ -24,7 +24,8 @@ The first represents cashbox inside the vending mashine with the same name 'cash
 1     | 100
 
 
-100   | 2
+100   | 2 	 
+50
 50    | 50
 20    | 50
 10    | 50
