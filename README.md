@@ -87,13 +87,13 @@ In case everything went well and you've got the product, 2 csv files will be cha
 Running the program:
 
 ----------------------------------------------
-|     |                   |     | 
-| :--:| :---------------: | :--:|
-|  1  | Croissant         |  5  | 
-|  2  | Mini Hummus       |  4  | 
-|  3  | Licorice Candy    |  4  |
-|  4  | Non-alcoholic Rum |  10 |
-|  5  | Soda              |  1  | 
+|     |                   |      | 
+| :--:| :---------------: | :---:|
+|  1  | Croissant         |  $5  | 
+|  2  | Mini Hummus       |  $4  | 
+|  3  | Licorice Candy    |  $4  |
+|  4  | Non-alcoholic Rum |  $10 |
+|  5  | Soda              |  $1  | 
 
 Now tell me what is it that you truly desire? 
 (Please choose the product)
