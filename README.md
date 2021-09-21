@@ -27,15 +27,12 @@ The second one represents products inside the vending mashine, 'products.csv' ha
 
 **`products.csv`**
 
-----| ---------------------- | -----
-1   | Croissant              | -----
-2   | Mini Hummus            | -----
-3   | Licorice Candy         | -----
-1   | Croissant         | 5  | 20
-2   | Mini Hummus       | 4  | 20
-3   | Licorice Candy    | 4  | 20
-4   | Non-alcoholic Rum | 10 | 20
-5   | Soda              | 1  | 20
+| :---| :--------------------- | --
+| 1   | Croissant         | 5  | 20
+| 2   | Mini Hummus       | 4  | 20
+| 3   | Licorice Candy    | 4  | 20
+| 4   | Non-alcoholic Rum | 10 | 20
+| 5   | Soda              | 1  | 20
 
 | Attempt | #1  | #2  |
 | :-----: | :-: | :-: |
@@ -80,12 +77,12 @@ In case everything went well and you've got the product, 2 csv files will be cha
 --------------------------------------------------------------------
 
 **`products.csv`**
-----| ---------------------- | -----
-1   | Croissant         | 5  | 20
-2   | Mini Hummus       | 4  | 20
-3   | Licorice Candy    | 4  | 20
-4   | Non-alcoholic Rum | 10 | 20
-5   | Soda              | 1  | 20
+:-: | :---------------: | :-: | :-: |
+| 1 | Croissant         | 5   | 20  |
+| 2 | Mini Hummus       | 4   | 20  |
+| 3 | Licorice Candy    | 4   | 20  |
+| 4 | Non-alcoholic Rum | 10  | 20  |
+| 5 | Soda              | 1   | 20  |
 
 --------------------------------------------------------------------
 
