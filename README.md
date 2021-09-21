@@ -1,9 +1,9 @@
 # Basic vending machine in Python
 
-In the repository you will find 2 csv and py files used to run the program (given in Python 3.8).
+In the repository you will find 2 csv and py files used to run the program (Python 3.8 used).
 
 - [Specification](#specification)
-- [Usage](#usage)
+- [Description](#description)
 - [Example](#example)
 
 --------------------------------------------------------------------------------
@@ -38,7 +38,7 @@ The second one represents products inside the vending mashine, 'products.csv' ha
 
 --------------------------------------------------------------------------------
 
-## Usage
+## Description
 
 To make sure it works:
 
