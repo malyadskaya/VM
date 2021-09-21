@@ -15,18 +15,19 @@ We have 2 csv files,
 The first represents cashbox inside the vending mashine with the same name 'cashbox.csv' and 2 columns: denomination and number of bills;
 
 **`cashbox.csv`**
----------- | -----
-100        | 2
-50         | 50
-20         | 50
-10         | 50
-5          | 50
-1          | 100
+----- | -----
+100   | 2
+50    | 50
+20    | 50
+10    | 50
+5     | 50
+1     | 100
 
 
 The second one represents products inside the vending mashine, 'products.csv' has 4 columns: product id, product name, price and stock amount.
 
 **`products.csv`**
+
 --- | ---------------------- | ----
 1   | Croissant         | 5  | 20
 2   | Mini Hummus       | 4  | 20
@@ -60,13 +61,14 @@ In case everything went well and you've got the product, 2 csv files will be cha
 **Input files**
 
 **`cashbox.csv`**
----------- | -----
-100        | 2
-50         | 50
-20         | 50
-10         | 50
-5          | 50
-1          | 100
+
+----- | -----
+100   | 2
+50    | 50
+20    | 50
+10    | 50
+5     | 50
+1     | 100
 
 --------------------------------------------------------------------
 
@@ -94,12 +96,14 @@ Now tell me what is it that you truly desire?
 
 ----------------------------------------------
 2
+
 ----------------------------------------------
 
 Mini Hummus is a perfect choice! The price is $12. Please enter banknotes (numbers separated by space)
 
 ----------------------------------------------
 10 10
+
 ----------------------------------------------
 
 Enjoy and do not forget your change [5, 1, 1, 1]
@@ -113,13 +117,13 @@ Enjoy and do not forget your change [5, 1, 1, 1]
 
 
 **`cashbox.csv`**
----------- | -----
-100        | 2
-50         | 50
-20         | 50
-10         | 52
-5          | 49
-1          | 97
+----- | -----
+100   | 2
+50    | 50
+20    | 50
+10    | 50
+5     | 50
+1     | 100
 
 --------------------------------------------------------------------
 
