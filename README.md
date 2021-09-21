@@ -27,7 +27,7 @@ The second one represents products inside the vending mashine, 'products.csv' ha
 
 **`products.csv`**
 
-|  1  | #Croissant        |  #5 |  #20 |
+
 | :--:| :---------------: | :--:| :--: |
 |  1  | Croissant         |  5  |  20  |
 |  2  | Mini Hummus       |  4  |  20  |
