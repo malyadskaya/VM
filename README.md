@@ -23,14 +23,9 @@ The first represents cashbox inside the vending mashine with the same name 'cash
 5     | 50
 1     | 100
 
-
-100   | 2 	 
-50
-50    | 50
-20    | 50
-10    | 50
-5     | 50
-1     | 100
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 The second one represents products inside the vending mashine, 'products.csv' has 4 columns: product id, product name, price and stock amount.
 
