@@ -1,6 +1,6 @@
 # Basic vending machine in Python
 
-In the repository you will find 2 csv and py files used to run the program (Python 3.8 used).
+In the repository you will find 2 csv and 1 py files used to run the program (Python 3.8 used).
 
 - [Specification](#specification)
 - [Description](#description)
@@ -53,6 +53,8 @@ If you've inputted banknotes/coins correctly but there is no change in cashbox y
 If the amount was the exact as price or there were change then you'll finally get the product and the change if needed =)
 
 In case everything went well and you've got the product, 2 csv files will be changed (new temps created and renamed) accordingly: the amount of stock will be reduced in products.csv, in cashbox.csv the amount of banknotes/coins will be increased by inputted and descreased by given change. 
+
+p.s. didn't used classes, the case is too small
 
 
 --------------------------------------------------------------------------------
