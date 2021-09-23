@@ -1,6 +1,6 @@
 # Basic vending machine in Python
 
-In the repository you will find 2 csv and 1 py files used to run the program (Python 3.8 used).
+In the repository you will find 2 csv and main.py, inventory.py and vending_machine.py (Python 3.8 used).
 
 - [Specification](#specification)
 - [Description](#description)
@@ -36,6 +36,10 @@ The second one represents products inside the vending mashine, 'products.csv' ha
 |  5  | Soda              |  1  |  20  |
 
 
+
+In main.py you'll see 2 classes for inventory changes and vending machine actions.
+
+
 --------------------------------------------------------------------------------
 
 ## Description
@@ -46,7 +50,7 @@ To make sure it works:
 2. Run the program
 
 
-By running `run_vending_machine.py` you will see the table of products with its prices and will be asked to choose one,
+By running `main.py` you will see the table of products with its prices and will be asked to choose one,
 If the choice is correct and the product exists in the stock you'll be asked to pay its price by inputing banknotes/coins (numbers separated by space),
 Here we also have few options: either the input wasn't correct or the amount of inputed banknote/coin wasn't correct or the amount wasn't enough then you'll get an error message accordingly, 
 If you've inputted banknotes/coins correctly but there is no change in cashbox you'll get your money back and the excuses from the vending mashine,
@@ -54,7 +58,6 @@ If the amount was the exact as price or there were change then you'll finally ge
 
 In case everything went well and you've got the product, 2 csv files will be changed (new temps created and renamed) accordingly: the amount of stock will be reduced in products.csv, in cashbox.csv the amount of banknotes/coins will be increased by inputted and descreased by given change. 
 
-p.s. didn't used classes, the case is too small
 
 
 --------------------------------------------------------------------------------
